@@ -1,0 +1,3 @@
+1,lavu,20,gandhi nagar
+1,lavu,22,ramalayam street
+2,mahi,23,gandhistreet
